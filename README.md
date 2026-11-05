@@ -1,0 +1,2 @@
+# rice-downloads
+Rice installers
